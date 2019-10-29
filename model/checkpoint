@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\_Python\\MNIST\\CNN-MNIS\\Tmodel\\model-100"
+all_model_checkpoint_paths: "E:\\_Python\\MNIST\\CNN-MNIS\\model\\model-20"
+all_model_checkpoint_paths: "E:\\_Python\\MNIST\\CNN-MNIS\\model\\model-40"
+all_model_checkpoint_paths: "E:\\_Python\\MNIST\\CNN-MNIS\\model\\model-60"
+all_model_checkpoint_paths: "E:\\_Python\\MNIST\\CNN-MNIS\\model\\model-80"
+all_model_checkpoint_paths: "E:\\_Python\\MNIST\\CNN-MNIS\\model\\model-100"
